@@ -1,6 +1,6 @@
 ## Hello!
 * My name is Guillermo, I'm from Argentina and a I'm a Industrial Engineer who is interested in DATA.
-* Currently working in Andreani + Studying Data Analytics and Data Science.
+* Currently working for ANDREANI as Procurement Specialist and Product Owner + Studying Data Analytics and Data Science.
 * +3 years experience working as Product Owner on data analysis projects for Procurement + Supply Chain.
 
 ## Skills
