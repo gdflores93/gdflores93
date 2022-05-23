@@ -1,15 +1,16 @@
-## Hello!
-* My name is Guillermo, I'm from Argentina and a I'm a Industrial Engineer who is interested in DATA.
-* Currently working for ANDREANI as Procurement Specialist and Product Owner + Studying Data Analytics and Data Science.
-* +3 years experience working as Product Owner on data analysis projects for Procurement + Supply Chain.
+## Hola!
+* Mi nombre es Guillermo, tengo 29 años, soy Ingeniero Industrial y soy un apasionado por la tecnología y los datos.
+* Actualmente trabajo en ANDREANI como Líder de Abastecimiento y Product Owner en Proyecto de Data Analytics en Abastecimiento.
+* +4 Años trabajando en diversos proyectos estratégicos.
+* Tengo estudios en Data Analytics y Data Science
 
 ## Skills
 * Python for Data Science (Pandas, Numpy, Matplotlib, ScikitLearn, Seaborn).
 * SQL
-* PowerBI and Tableau
+* PowerBI y Tableau
 * MS Project, Trello, Miro
 * Project Management
 
-## Contact
+## Contacto
 * Linkedin: https://www.linkedin.com/in/gdflorestorres/
 * Mail: guillermo_897@hotmail.com
